@@ -1,3 +1,5 @@
+# Source https://github.com/docker/docker-ce/tree/master/components/engine/pkg/namesgenerator
+
 import random
 
 LEFT: list[str] = [
